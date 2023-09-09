@@ -112,7 +112,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Govt. College University, Faislabad",
-      logo: require("./assets/images/gcuf.jpg"),
+      logo: require("./assets/images/gcuf.png"),
       subHeader: "Bachelors of Science in Software Engineering",
       duration: "September 2019 - April 2023",
       // desc: "Participated in the research of XXX and published 3 papers.",
